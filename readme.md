@@ -1,4 +1,4 @@
-# boiler template for
+# Boiler template for
 
 ## constructor pattern
 
